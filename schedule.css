@@ -1,0 +1,11 @@
+td {
+    border: 2px solid black;
+    padding: 5px;
+    color: rgb(109, 110, 185);
+    background-color: rgb(65, 55, 55);
+}
+
+table, h1 {
+    text-align: center;
+    margin: auto;
+}
